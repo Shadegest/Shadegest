@@ -5,7 +5,8 @@
 ---
 
 ## About me
-`const shadegest = {
+
+const angus = {
   name: "Mykyta Burachenko",
   school: "Kood/Sisu",
   major: "Electro-Technical engineering",
@@ -19,4 +20,4 @@
   },
   currentFocus: "Optimal UI/UX and Frontend Development",
   learning: "Everything I can, all at once",
-};`
+};
