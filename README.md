@@ -6,12 +6,13 @@
 
 ## About me
 
-const angus = {
+```javascript
+const shadegest = {
   name: "Mykyta Burachenko",
   school: "Kood/Sisu",
-  major: "Electro-Technical engineering",
+  major: "Electro-Technical Engineering",
   focus: "Full Stack Development/Cybersecurity",
-  passions: ["Reverse Engineering", "UI/UX", "Encryption/Decryption"],
+  passions: ["Reverse Engineering", "UI/UX", Data Flow"],
   techStack: {
     languages: ["JavaScript/TypeScript", "HTML", "CSS", "Go"],
     frameworks: ["React", "Next.js", "Tailwind CSS", "Vite", "Laravel"],
@@ -21,3 +22,4 @@ const angus = {
   currentFocus: "Optimal UI/UX and Frontend Development",
   learning: "Everything I can, all at once",
 };
+```
