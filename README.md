@@ -12,7 +12,7 @@ const shadegest = {
   school: "Kood/Sisu",
   major: "Electro-Technical Engineering",
   focus: "Full Stack Development/Cybersecurity",
-  passions: ["Reverse Engineering", "UI/UX", Data Flow"],
+  passions: ["Reverse Engineering", "UI/UX", Data Engineering"],
   techStack: {
     languages: ["JavaScript/TypeScript", "HTML", "CSS", "Go"],
     frameworks: ["React", "Next.js", "Tailwind CSS", "Vite", "Laravel"],
