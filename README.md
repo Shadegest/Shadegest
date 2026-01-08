@@ -20,10 +20,10 @@ const shadegest = {
   passions: ["Reverse Engineering", "UI/UX", "Data Engineering"],
   techStack: {
     languages: ["JavaScript/TypeScript", "Go", "С++"],
-    frontend: ["HTML5", "CSS3", "three.js", "Vite"],
-    backend: ["Node.js", "NPM", "docker"],
+    frontend: ["HTML5", "CSS3", "Three.js", "Vite"],
+    backend: ["Node.js", "NPM", "Docker"],
     graphics: ["Blender"],
-    tools: ["Node.js", "SQL", "Docker", "Git"],
+    tools: ["Git", "Visual Studio", "VScode"],
   },
   currentFocus: "Optimal UI/UX and Frontend Development, Cybersecurity",
   learning: "Everything I can, all at once",
