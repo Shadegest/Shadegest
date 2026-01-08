@@ -66,7 +66,6 @@ const shadegest = {
   <strong>3D:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="32"/>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  
   <strong>Tools:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="32"/>
