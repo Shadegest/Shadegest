@@ -21,7 +21,7 @@ const shadegest = {
   techStack: {
     languages: ["JavaScript/TypeScript", "Go", "С++"],
     frontend: ["HTML5", "CSS3", "Three.js", "Vite"],
-    backend: ["Node.js", "NPM", "Docker"],
+    backend: ["Node.js", "NPM", "Docker", "MySQL", "SQLite"],
     graphics: ["Blender"],
     tools: ["Git", "Visual Studio", "VScode"],
   },
@@ -56,6 +56,8 @@ const shadegest = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" />
