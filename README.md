@@ -1,4 +1,11 @@
-![Age Badge](https://img.shields.io/badge/Age-26-blue)
+<div align="center">
+
+![Age](https://img.shields.io/badge/Age-26-blue)
+![School](https://img.shields.io/badge/School-Kood%2FSisu-success)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%2F%20Cybersecurity-yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=boshyxd&color=blueviolet&style=flat)
+
+</div>
 
 <div align="center"> 
   
