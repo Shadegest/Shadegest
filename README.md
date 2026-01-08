@@ -127,6 +127,21 @@ const shadegest = {
   </tr>
 </table>
 
+## Projects
+
+> All projects are private but can be shared publicly if requested.
+
+### 3D Projects
+- Gallery
+- Solar System Orbit
+
+### Go Projects
+- Route Finder for Trains (Graphs)
+- Airport Code and Date Formatter
+- Cars Viewer
+- Text Encoder/Decoder with HTML
+- Text Encoder/Decoder
+
 ## Social
 
 <div align="left">
