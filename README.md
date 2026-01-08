@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadegest)](https://github.com/anuraghazra/github-readme-stats)
+![Age Badge](https://img.shields.io/badge/Age-26-blue)
 
 <div align="center"> 
   
@@ -129,7 +129,7 @@ const shadegest = {
   <a href="https://discord.com/users/333325945362579456" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="mailto:nburachenko@gmail.com">
+  <a href="mailto:mykytaburachenko@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/shadegest/" target="_blank">
