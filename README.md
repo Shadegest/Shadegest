@@ -13,8 +13,12 @@
   
 </div>
 
-![github-snake-dark](https://github.com/user-attachments/assets/d073f09e-4e91-42f0-918c-19d7a9f17f4e)
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 ---
 
