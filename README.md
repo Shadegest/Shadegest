@@ -19,7 +19,7 @@ const shadegest = {
   focus: "Full Stack Development/Cybersecurity",
   passions: ["Reverse Engineering", "UI/UX", "Data Engineering"],
   techStack: {
-    languages: ["JavaScript/TypeScript", "С++", "Go"],
+    languages: ["JavaScript/TypeScript", "Go", "С++"],
     frontend: ["Vite", "HTML5", "CSS3", "three.js"],
     backend: ["Node.js", "NPM", "docker"],
     graphics: ["Blender"],
