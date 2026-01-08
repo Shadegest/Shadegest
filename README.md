@@ -132,15 +132,15 @@ const shadegest = {
 > All projects are private but can be shared publicly if requested.
 
 ### 3D Projects
-- Gallery
-- Solar System Orbit
+- [Gallery](screenshots/gallery.png)
+- [Solar System Orbit](screenshots/orbit.png)
 
 ### Go Projects
-- Route Finder for Trains (Graphs)
-- Airport Code and Date Formatter
-- Cars Viewer
-- Text Encoder/Decoder with HTML
-- Text Encoder/Decoder
+- [Route Finder for Trains (Graphs)](screenshots/)
+- [Airport Code and Date Formatter](screenshots/)
+- [Cars Viewer](screenshots/)
+- [Text Encoder / Decoder with HTML](screenshots/)
+- [Text Encoder / Decoder](screenshots/art-console.png)
 
 ## Social
 
