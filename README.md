@@ -46,9 +46,9 @@ const shadegest = {
 
 <p align="center">
   <strong>Languages:</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/></a>
+  <a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32"/></a>
+  <a href="https://isocpp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <strong>Frontend:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
