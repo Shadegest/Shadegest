@@ -78,15 +78,16 @@ const shadegest = {
 > All projects are private but can be shared publicly if requested.
 
 ### Go Projects
-- [Route Finder for Trains (Graphs)](screenshots/route/)
+- [Book Forum](screenshots/book-forum/book-forum.png)
+- [Route Finder for Trains (Graphs)](screenshots/route/route.png)
+- [Cars Viewer](screenshots/cars/cars.png)
+- [Text Encoder / Decoder with HTML](screenshots/art-decoder/art-decoder.png)
+- [Text Encoder / Decoder](screenshots/art-console/art-console.png)
 - [Airport Code and Date Formatter](screenshots/airport/airport.png)
-- [Cars Viewer](screenshots/cars/)
-- [Text Encoder / Decoder with HTML](screenshots/art-decoder/)
-- [Text Encoder / Decoder](screenshots/art-console.png)
 
 ### 3D Projects
-- [Gallery](screenshots/gallery.png)
-- [Solar System Orbit](screenshots/orbit.png)
+- [Gallery](screenshots/gallery/gallery.png)
+- [Solar System Orbit](screenshots/orbit/orbit.png)
 
 ## Social
 
