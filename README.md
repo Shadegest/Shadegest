@@ -78,7 +78,7 @@ const shadegest = {
 > All projects are private but can be shared publicly if requested.
 
 ### Go Projects
-- [Book Forum](screenshots/book-forum/book-forum.png)
+- [Book Forum](gif/book-forum/book-forum.gif)
 - [Route Finder for Trains (Graphs)](screenshots/route/route.png)
 - [Cars Viewer](screenshots/cars/cars.png)
 - [Text Encoder / Decoder with HTML](screenshots/art-decoder/art-decoder.png)
