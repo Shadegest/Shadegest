@@ -80,8 +80,8 @@ const shadegest = {
 ### Go Projects
 - [Book Forum(click for gif)](gif/book-forum/book-forum.gif)
 [![Book Forum Demo](screenshots/book-forum/book-forum.png)](gif/book-forum/book-forum.gif)
-- [Cars Viewer](gif/cars/cars.png)
-[![Cars Viewer Demo(click for gif)](screenshots/cars/cars.png)](gif/cars/cars.gif)
+- [Cars Viewer(click for gif)](gif/cars/cars.png)
+[![Cars Viewer Demo](screenshots/cars/cars.png)](gif/cars/cars.gif)
 - [Route Finder for Trains (Graphs)](screenshots/route/route.png)
 - [Text Encoder / Decoder with HTML](screenshots/art-decoder/art-decoder.png)
 - [Text Encoder / Decoder](screenshots/art-console/art-console.png)
@@ -89,7 +89,7 @@ const shadegest = {
 
 ### 3D Projects
 - [Solar System Orbit(click for gif)](gif/orbit/orbit.png)
-[![Cars Viewer Demo(click for gif)](screenshots/orbit/orbit.png)](gif/cars/cars.gif)
+[![Cars Viewer Demo(click for gif)](screenshots/orbit/orbit.png)](gif/orbit/orbit.gif)
 - [Gallery](screenshots/gallery/gallery.png)
 
 ## Social
