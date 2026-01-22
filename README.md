@@ -80,7 +80,7 @@ const shadegest = {
 ### Go Projects
 - [Book Forum(click for gif)](gif/book-forum/book-forum.gif)
 [![Book Forum Demo](screenshots/book-forum/book-forum.png)](gif/book-forum/book-forum.gif)
-- [Cars Viewer(click for gif)](gif/cars/cars.png)
+- [Cars Viewer(click for gif)](gif/cars/cars.gif)
 [![Cars Viewer Demo](screenshots/cars/cars.png)](gif/cars/cars.gif)
 - [Route Finder for Trains (Graphs)](screenshots/route/route.png)
 - [Text Encoder / Decoder with HTML](screenshots/art-decoder/art-decoder.png)
