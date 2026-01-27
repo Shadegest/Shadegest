@@ -77,6 +77,8 @@ const shadegest = {
 
 > All projects are private but can be shared publicly if requested.
 
+LATEST PROJECT: flickering.ink
+
 ### Go Projects
 - [Book Forum(click for gif)](gif/book-forum/book-forum.gif)
 [![Book Forum Demo](screenshots/book-forum/book-forum.png)](gif/book-forum/book-forum.gif)
