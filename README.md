@@ -79,6 +79,9 @@ const shadegest = {
 
 LATEST PROJECT (JavaScript): [flickering.ink](https://flickering.ink)
 
+### Javascript/Typescript and React Projects
+Race control page with websockets
+
 ### Go Projects
 - [Book Forum(click for gif)](gif/book-forum/book-forum.gif)
 [![Book Forum Demo](screenshots/book-forum/book-forum.png)](gif/book-forum/book-forum.gif)
