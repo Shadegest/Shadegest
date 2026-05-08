@@ -29,7 +29,7 @@ const shadegest = {
   name: "Mykyta Burachenko",
   school: "Kood/Sisu",
   major: "Electro-Technical Engineering",
-  focus: "Full Stack Development/Cybersecurity",
+  focus: "Software Development",
   passions: ["Full-stack", "UI/UX", "Cybersecurity", "AI engineering"],
   techStack: {
     languages: ["JavaScript/TypeScript", "Go", "С++", "React"],
@@ -77,7 +77,7 @@ const shadegest = {
 
 
 ### Javascript/Typescript and React Projects
-- [Find a friend with common interests (React, GraphQL, REST, GO, Typescript)](https://github.com/Shadegest/find_friend), [similar project made in people of three](https://github.com/Shadegest/find_your_interest)
+- [Find a friend with common interests (React, GraphQL, REST, GO, Typescript)](https://github.com/Shadegest/find_friend), [similar project made in team of three](https://github.com/Shadegest/find_your_interest)
 - [Race control page in real-time](https://github.com/Shadegest/Race_track_control)
 - [flickering.ink](https://flickering.ink) website for paintings show case
 
