@@ -2,7 +2,7 @@
 
 ![Age](https://img.shields.io/badge/Age-26-blue)
 ![School](https://img.shields.io/badge/School-Kood%2FSisu-success)
-![Focus](https://img.shields.io/badge/Software%20development%20%2F%20-yellow)
+![Focus](https://img.shields.io/badge/Software%20development%20%20-yellow)
 ![Profile Views](https://komarev.com/ghpvc/?username=boshyxd&color=blueviolet&style=flat)
 
 </div>
