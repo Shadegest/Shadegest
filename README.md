@@ -2,7 +2,7 @@
 
 ![Age](https://img.shields.io/badge/Age-26-blue)
 ![School](https://img.shields.io/badge/School-Kood%2FSisu-success)
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%2F%20Cybersecurity-yellow)
+![Focus](https://img.shields.io/badge/Software%20development%20%2F%20-yellow)
 ![Profile Views](https://komarev.com/ghpvc/?username=boshyxd&color=blueviolet&style=flat)
 
 </div>
@@ -80,8 +80,8 @@ const shadegest = {
 LATEST PROJECT (JavaScript): [flickering.ink](https://flickering.ink) website for paintings show case
 
 ### Javascript/Typescript and React Projects
-Race control page with websockets
-Match-me dating app with react
+- Race control page with websockets
+- [Match-me dating app (React, GraphQL, REST, GO, Typescript)](https://github.com/Shadegest/find_friend)
 
 ### Go Projects
 - [Book Forum(click for gif)](gif/book-forum/book-forum.gif)
