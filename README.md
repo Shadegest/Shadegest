@@ -75,13 +75,11 @@ const shadegest = {
 
 ## Projects
 
-> All projects are private but can be shared publicly if requested.
-
-LATEST PROJECT (JavaScript): [flickering.ink](https://flickering.ink) website for paintings show case
 
 ### Javascript/Typescript and React Projects
-- Race control page with websockets
 - [Match-me dating app (React, GraphQL, REST, GO, Typescript)](https://github.com/Shadegest/find_friend)
+- [Race control page in real-time](https://github.com/Shadegest/Race_track_control)
+- [flickering.ink](https://flickering.ink) website for paintings show case
 
 ### Go Projects
 - [Book Forum(click for gif)](gif/book-forum/book-forum.gif)
