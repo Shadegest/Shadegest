@@ -77,7 +77,7 @@ const shadegest = {
 
 
 ### Javascript/Typescript and React Projects
-- [Match-me dating app (React, GraphQL, REST, GO, Typescript)](https://github.com/Shadegest/find_friend)
+- [Find a friend with common interests (React, GraphQL, REST, GO, Typescript)](https://github.com/Shadegest/find_friend), [similar project made in people of three](https://github.com/Shadegest/find_your_interest)
 - [Race control page in real-time](https://github.com/Shadegest/Race_track_control)
 - [flickering.ink](https://flickering.ink) website for paintings show case
 
