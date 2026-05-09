@@ -92,8 +92,8 @@ const shadegest = {
 
 ## Go Projects
 
-- [Book Forum](gif/book-forum/book-forum.gif)
-- [Cars Viewer](gif/cars/cars.gif)
+- [Book Forum](gif/book-forum/book-forum.gif) [![Book Forum Demo](screenshots/book-forum/book-forum.png)](gif/book-forum/book-forum.gif)
+- [Cars Viewer](gif/cars/cars.gif) [![Cars Viewer Demo](screenshots/cars/cars.png)](gif/cars/cars.gif)
 - [Route Finder for Trains (Graphs)](screenshots/route/route.png)
 - [Text Encoder / Decoder with HTML](screenshots/art-decoder/art-decoder.png)
 - [Airport Code and Date Formatter](screenshots/airport/airport.png)
