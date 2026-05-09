@@ -77,7 +77,7 @@ const shadegest = {
 ### Full-Stack & Backend Projects
 
 - [Find Friend](https://github.com/Shadegest/find_friend)  
-  Full-stack recommendation platform built solo using React, GraphQL, REST APIs, Go, TypeScript, PostgreSQL, Docker, JWT, and OAuth.
+  Full-stack recommendation platform built solo using React, GraphQL, REST APIs, Go, TypeScript, PostgreSQL, Python(Django), Docker, JWT, and OAuth.
 
 - [Find Your Interest](https://github.com/Shadegest/find_your_interest)  
   Similar production-ready project developed in a team of three to better understand scalable architecture, backend/frontend separation, and collaborative workflows.
