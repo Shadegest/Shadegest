@@ -1,45 +1,73 @@
 <div align="center">
 
-![Age](https://img.shields.io/badge/Age-26-blue)
 ![School](https://img.shields.io/badge/School-Kood%2FSisu-success)
-![Focus](https://img.shields.io/badge/Software%20development%20%20-yellow)
-![Profile Views](https://komarev.com/ghpvc/?username=boshyxd&color=blueviolet&style=flat)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Engineering-blue)
+![Backend](https://img.shields.io/badge/Backend-Go%20%7C%20GraphQL%20%7C%20PostgreSQL-orange)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Docker%20%7C%20Linux-lightgrey)
 
 </div>
-
-<div align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50F710&width=435&lines=Building+the+future+and+dreams!&center=true&hOffset=20" />
-  </a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 
 ---
 
-## About me
+# Mykyta Burachenko
+
+Full-stack software developer focused on backend engineering, scalable system architecture, cloud infrastructure, cybersecurity, and performance optimization.
+
+Currently building scalable applications using Go, TypeScript, PostgreSQL, Docker, GraphQL, React, JWT authentication, OAuth integrations, and microservice-oriented architectures.
+
+---
+
+## About Me
 
 ```javascript
 const shadegest = {
-  name: "Mykyta Burachenko",
+  location: "Helsinki, Finland",
   school: "Kood/Sisu",
-  major: "Electro-Technical Engineering",
-  focus: "Software Development",
-  passions: ["Full-stack", "UI/UX", "Cybersecurity", "AI engineering"],
+  
+  focus: [
+    "Full-stack Development",
+    "Backend Engineering",
+    "System Architecture",
+    "Performance Optimization",
+    "Cybersecurity"
+  ],
+
   techStack: {
-    languages: ["JavaScript/TypeScript", "Go", "С++", "React"],
-    frontend: ["HTML5", "CSS3", "Three.js", "Vite"],
-    backend: ["Node.js", "NPM", "Docker", "PostgreSQL", "SQLite"],
-    graphics: ["Blender"],
-    tools: ["Git", "Visual Studio", "VScode"],
+    languages: ["Go", "TypeScript", "Python", "SQL", "C++"],
+    
+    frontend: [
+      "React",
+      "HTML5",
+      "CSS3",
+      "Vite",
+      "Three.js"
+    ],
+
+    backend: [
+      "GraphQL",
+      "REST APIs",
+      "JWT",
+      "OAuth2",
+      "WebSockets",
+      "Docker",
+      "PostgreSQL",
+      "MySQL"
+    ],
+
+    infrastructure: [
+      "Docker Compose",
+      "Linux",
+      "Git",
+      "Azure Fundamentals"
+    ]
   },
-  currentFocus: "Optimal UI/UX and Frontend Development, Cybersecurity",
-  learning: "Everything I can, all at once",
+
+  learning: [
+    "Distributed Systems",
+    "Scalable Architectures",
+    "Cloud Infrastructure",
+    "Cybersecurity"
+  ]
 };
 ```
 ## My Tech Stack
