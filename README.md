@@ -1,7 +1,7 @@
 <div align="center">
 
 ![School](https://img.shields.io/badge/School-Kood%2FSisu-success)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Engineering-blue)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%2FAI%20Engineering-blue)
 ![Backend](https://img.shields.io/badge/Backend-Go%20%7C%20GraphQL%20%7C%20PostgreSQL-orange)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Docker%20%7C%20Linux-lightgrey)
 
@@ -11,9 +11,9 @@
 
 # Mykyta Burachenko
 
-Full-stack software developer focused on backend engineering, scalable system architecture, cloud infrastructure, cybersecurity, and performance optimization.
+Full-stack software developer focused on backend engineering and AI integration, scalable system architecture, cloud infrastructure, cybersecurity, and performance optimization.
 
-Currently building scalable applications using Go, TypeScript, PostgreSQL, Docker, GraphQL, React, JWT authentication, OAuth integrations, and microservice-oriented architectures.
+Currently building scalable applications using Go, TypeScript, PostgreSQL, Docker, GraphQL, React, JWT authentication, OAuth integrations, RAG integration with LLM providers and microservice-oriented architectures.
 
 ---
 
