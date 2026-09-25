@@ -25,7 +25,7 @@ const shadegest = {
   school: "Kood/Sisu",
   
   focus: [
-    "Full-stack Development",
+    "Full-stack/AI integration Development",
     "Backend Engineering",
     "System Architecture",
     "Performance Optimization",
